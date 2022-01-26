@@ -1,0 +1,12 @@
+.contact-content{
+    /* height: 375px; */
+    /* background-color: bisque; */
+    /* display: flex; */
+    margin: 13px;
+    padding: 9px;
+    position: relative;
+    overflow: hidden;
+    height: 100vh;
+    /* border-radius: 14px; */
+
+}
